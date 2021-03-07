@@ -616,6 +616,7 @@ a:hover {
 
 .hero .content p {
   margin-bottom: 15px;
+  line-height: 2;
 }
 
 .hero .content p span {
